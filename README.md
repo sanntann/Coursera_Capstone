@@ -1,4 +1,7 @@
-# Coursera_Capstone
+# IBM Data Science Professional Certificate Capstone Project
 
-Please see Week 3 assessment submission at the link below:
-https://nbviewer.jupyter.org/github/sanntann/Coursera_Capstone/blob/master/Assessment_3.ipynb
+Please see the final project notebook at the following link:
+https://nbviewer.jupyter.org/github/sanntann/Coursera_Capstone/blob/master/WhereToBuyInEdinburgh_Clustering.ipynb
+
+The link above uses nbviewer to ensure maps are rendered correctly when viewing the notebook hosted in this repository
+https://github.com/sanntann/Coursera_Capstone/blob/master/WhereToBuyInEdinburgh_Clustering.ipynb
